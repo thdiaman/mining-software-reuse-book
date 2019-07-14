@@ -1,6 +1,7 @@
 title: Mining Software Engineering Data for Software Reuse
 description: Book by Themistoklis Diamantopoulos & Andreas L. Symeonidis
-baseurl: "https://thdiaman.github.io/mining-software-reuse-book"
+url: "https://thdiaman.github.io"
+baseurl: "/mining-software-reuse-book"
 
 styles:
   brand-color: "#268bd2"
