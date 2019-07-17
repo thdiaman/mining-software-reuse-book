@@ -3,11 +3,9 @@ title: Home
 sidebar: 1
 ---
 
-
-
 This is a website accompanying the book:
 
-<p style="text-align:center;"><b>Mining Software Engineering Data for Software Reuse</b></p>
+<p style="text-align: center; font-weight: 600;">Mining Software Engineering Data for Software Reuse</p>
 
 The book, which is currently in progress, is written by Themistoklis Diamantopoulos and Andreas L. Symeonidis.
 
