@@ -4,7 +4,7 @@ url: "https://thdiaman.github.io"
 baseurl: "/mining-software-reuse-book"
 
 styles:
-  brand-color: "#268bd2"
+  brand-color: "#374d69"
   link-text-decoration: none
 
 google_analytics:
