@@ -9,6 +9,6 @@ This is a website accompanying the book:
 
 The book is written by Themistoklis Diamantopoulos and Andreas L. Symeonidis.
 
-This website offers information about the contents of the book and also includes supporting material.
+The book can be found <a target="_blank" href="https://www.springer.com/gp/book/9783030301057">here</a>, while this website offers information about the contents of the book and also includes supporting material.
 
 The links to the left provide access to any supporting material (datasets, tools, etc.) for anyone that wishes to reproduce the findings of the book.
